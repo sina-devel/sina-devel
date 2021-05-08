@@ -7,15 +7,17 @@ Hi, I am Sina Safari ,and I was born in 2002, I love computers and technology, I
 </a>
 <br>
 
-## 🔧 My Favorite Technologies
+## 🔧 Technologies
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Code-Rustlang-informational?style=flat&logo=rust&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=informational)
 
 <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-devel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"><br>
