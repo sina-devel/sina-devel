@@ -17,7 +17,7 @@ Hi, I am Sina Safari ,and I was born in 2002, I love computers and technology, I
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=informational)
+
 
 <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-devel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"><br>
