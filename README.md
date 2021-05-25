@@ -15,8 +15,5 @@ Hi, I am Sina Safari ,and I was born in 2002, I love computers and technology, I
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=informational)
 
+<img src="https://github-readme-stats.vercel.app/api?username=sina-devel&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
 
-<div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-devel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=sina-devel&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
-</div>
