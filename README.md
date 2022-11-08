@@ -2,7 +2,7 @@
 
 Hi, I am Sina Safari ,and I was born in 2002, I love computers and technology, I started programming a few years ago, I like programming.
 
-<a href="https://t.me/sina_devel">
+<a href="https://t.me/goto_sina">
   <img align="left" alt="Sina Safari | Telegram" width="32px" src="https://github.com/sina-devel/sina-devel/blob/main/img/telegram.png" />
 </a>
 <br>
